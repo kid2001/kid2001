@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/kydao.svg" width="1200" alt="kydao" />
+  <img src="kydao.svg" width="1200" alt="kydao" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
